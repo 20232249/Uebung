@@ -1,3 +1,3 @@
-Test
-Konflikt
-Test
+Lokal gepulled
+Text veraendert
+pushen
